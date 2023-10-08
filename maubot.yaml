@@ -1,0 +1,7 @@
+maubot: 0.1.0
+id: net.strudelline.maubots.unfurl
+version: 0.2.0
+license: MIT
+modules:
+- unfurl
+main_class: UnfurlBot
